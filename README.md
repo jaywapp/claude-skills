@@ -2,6 +2,9 @@
 
 jaywapp의 개인 Claude Code 스킬 모음.
 
+> **플러그인은 별도 저장소로 관리한다.** (`jaywapp/claude-plugin-{name}`)  
+> 이 저장소는 단일 `.md` 파일로 구성되는 스킬만 포함한다.
+
 ## 사용법
 
 원하는 스킬 폴더를 `~/.claude/skills/` 에 복사한다.
